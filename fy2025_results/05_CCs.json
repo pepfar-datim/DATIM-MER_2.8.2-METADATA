@@ -1,0 +1,1402 @@
+{
+  "categoryCombos": [
+    {
+      "categories": [
+        {
+          "id": "YWlxK78PXQ9"
+        },
+        {
+          "id": "z5yJfr6O3w8"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Kyle Pittleman",
+        "id": "eTi8UVJwHfF",
+        "name": "Kyle Pittleman",
+        "username": "kyle-pittleman-xgl-global-3288"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "vKBWjLzTDZJ",
+      "name": "Age (10-17-uk, 2) and Sex (Female)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "gHIIEIjio4o"
+        },
+        {
+          "id": "z5yJfr6O3w8"
+        },
+        {
+          "id": "ma7jsi39tUX"
+        },
+        {
+          "id": "NPxLhFcz2ji"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Kyle Pittleman",
+        "id": "eTi8UVJwHfF",
+        "name": "Kyle Pittleman",
+        "username": "kyle-pittleman-xgl-global-3288"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "eNkifwug0iS",
+      "name": "Age (10-29, 4), Sex (Female), DREAMS Time and Completion v2",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "oJXfCG5jnog"
+        },
+        {
+          "id": "z5yJfr6O3w8"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "AoWbpQLbBBp",
+      "name": "Age (<10-50+-uk, 10) and Sex (Female)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "oJXfCG5jnog"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "GPZcq6IewcP"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "mFvb8LsrlS5",
+      "name": "Age (<10-50+-uk, 10), Sex and Violence Service Type",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "oJXfCG5jnog"
+        },
+        {
+          "id": "z5yJfr6O3w8"
+        },
+        {
+          "id": "dzKJC5Rtwcn"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "CwdpUfwQJ98",
+      "name": "Age (<10-50+-uk, 10), Sex (Female) and Known Positive / New Pos or Neg / Recent Neg",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "StHziWbIitx"
+        },
+        {
+          "id": "z5yJfr6O3w8"
+        },
+        {
+          "id": "FokGv0LCTYj"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "Y1SCwnRscbu",
+      "name": "Age (<10-50+-uk, 10), Sex (Female) and Test Results",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "oJXfCG5jnog"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "Ebuc5weoYGC",
+      "name": "Age (<10-65+-uk-nme, 14) and Sex",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "oJXfCG5jnog"
+        },
+        {
+          "id": "FK63UgOIH2K"
+        },
+        {
+          "id": "z5yJfr6O3w8"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "rFarVcEuKlX",
+      "name": "Age (<10-65+-uk-nme, 14), New Existing ART, Sex (Female) and HIV Status (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "HUOw5UkDg4V"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "rGaFjr6CA1G"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "nObedgkgdkA",
+      "name": "Age (10-65+-uk-nme, 14) Sex and HIV Self Test Kit Type",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "XUBQZatxY5b"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "FokGv0LCTYj"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "YsrFQ6Ge42q",
+      "name": "Age (<1,1-4-uk, 2), Sex and Result",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "R8ay5IoNW1S"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "ZiayCMcQLhM"
+        }
+      ],
+      "code": "age_lt_1_20_uk_6_sex_and_hiv_status_inc_undiscl",
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "e7ovExu7Giw",
+      "name": "Age (<1-20-uk, 6), Sex and HIV Status (Inc Undisclosed and Test Not Required)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "R8ay5IoNW1S"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "McLoJJs4bki"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "KH515hOcUS8",
+      "name": "Age (<1-20-uk, 6), Sex and Program Status",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "hDomCfJSxiQ"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "KD7et9pZCmw",
+      "name": "Age (<1-50+-uk, 12) and Sex",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "hDomCfJSxiQ"
+        },
+        {
+          "id": "L567Pvhn2WC"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "Ynr2qtl6WB9",
+      "name": "Age (<1-50+-uk, 12), Sex and Known Positive / New Pos or Neg",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "hDomCfJSxiQ"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "ckicnFPfFEp"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "lUEqgsMo7Uw",
+      "name": "Age (<1-50+-uk, 12), Sex and Known Positive / New Pos or Neg / Documented Neg",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "hDomCfJSxiQ"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "dzKJC5Rtwcn"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "nFU0RT08Uh3",
+      "name": "Age (<1-50+-uk, 12), Sex and Known Positive / New Pos or Neg / Recent Neg",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "hDomCfJSxiQ"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "LGdOHfU4R32"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "C0ottQGE4mS",
+      "name": "Age (<1-50+-uk, 12), Sex and New Pos/New Neg/Recent Neg",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "hDomCfJSxiQ"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "FokGv0LCTYj"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "qKePLJSRLgS",
+      "name": "Age (<1-50+-uk, 12), Sex and Test Results",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "fPrE6fiFb5f"
+        },
+        {
+          "id": "cUssOiT9cHY"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "CS9bQtxhawH",
+      "name": "Age (<15,15+-uk, 2) and Sex w/ Unknown",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "fPrE6fiFb5f"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "kLall2yxA2W",
+      "name": "Age (<15,15+-uk, 2), Sex and HIV Status (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "fPrE6fiFb5f"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "FokGv0LCTYj"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "MXCe0fgn0sO",
+      "name": "Age (<15,15+-uk, 2), Sex, and Results",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "fPrE6fiFb5f"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "ogKA6IdTRHv"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Kyle Pittleman",
+        "id": "eTi8UVJwHfF",
+        "name": "Kyle Pittleman",
+        "username": "kyle-pittleman-xgl-global-3288"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "AzVwyP04A4q",
+      "name": "Age (<15,15+-uk, 2), Sex, ARV Dispensing Quantity and HIV Status (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "fPrE6fiFb5f"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "NJ5XJf9QvlE"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "lO4hHgmugm5",
+      "name": "Age (<15,15+-uk, 2), Sex, CD4 and HIV Status (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "fPrE6fiFb5f"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "FK63UgOIH2K"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "QxGJU5VqkS4",
+      "name": "Age (<15,15+-uk, 2), Sex, New Existing ART and HIV Status (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "fPrE6fiFb5f"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "lmf1Sn72E2b"
+        },
+        {
+          "id": "FK63UgOIH2K"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "isNiYirMRYt",
+      "name": "Age (<15,15+-uk, 2), Sex, TB Screen Result, New Existing ART and HIV Status (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "d4317wJ77uc"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "USniQRTQRnY",
+      "name": "Age (15-50+-uk, 8) and Sex",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "d4317wJ77uc"
+        },
+        {
+          "id": "z5yJfr6O3w8"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        },
+        {
+          "id": "MLEfaWipx86"
+        },
+        {
+          "id": "lOVd9kVjsfH"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Timothy Harding",
+        "id": "AfY6s6e2D6C",
+        "name": "Timothy Harding",
+        "username": "timothy-harding-xgl-global-8045"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "nCcLK0df5wY",
+      "name": "Age (15-50+-uk, 8), Sex (Female), HIV Status (Positive), Cervical Cancer Result and Visit",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "d4317wJ77uc"
+        },
+        {
+          "id": "z5yJfr6O3w8"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        },
+        {
+          "id": "MLEfaWipx86"
+        },
+        {
+          "id": "hZrOaXxg0N3"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Timothy Harding",
+        "id": "AfY6s6e2D6C",
+        "name": "Timothy Harding",
+        "username": "timothy-harding-xgl-global-8045"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "h5rXMDBAq2P",
+      "name": "Age (15-65+-uk-nme, 12), Sex (Female), HIV Status (Positive), Cervical Cancer Treatment Type and Visit",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "HmRS4b1BbUD"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "HZtrVMo9031",
+      "name": "Age (<1-65+-uk-nme, 16), Sex and HIV Status (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "HmRS4b1BbUD"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "NJ5XJf9QvlE"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "HUFqAeczlFO",
+      "name": "Age (<1-65+-uk-nme, 16), Sex, CD4 and HIV Status (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "FK63UgOIH2K"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        },
+        {
+          "id": "HmRS4b1BbUD"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "vyCxt8An698",
+      "name": "Age (<1-65+-uk-nme, 16), Sex, New Existing ART and HIV Status (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "UMr1GucUTpm"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        },
+        {
+          "id": "HmRS4b1BbUD"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Kyle Pittleman",
+        "id": "eTi8UVJwHfF",
+        "name": "Kyle Pittleman",
+        "username": "kyle-pittleman-xgl-global-3288"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "OBcCcggxy2M",
+      "name": "Age (<1-65+-uk-nme, 16), Sex, No Clinical Contact Cause of Death and HIV Status (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        },
+        {
+          "id": "Rs36Btb3oNw"
+        },
+        {
+          "id": "HmRS4b1BbUD"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "rmtqOboBUPQ",
+      "name": "Age (<1-65+-uk-nme, 16), Sex, No Contact Outcome (<3-6+ Months) and HIV Status (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "HmRS4b1BbUD"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "lmf1Sn72E2b"
+        },
+        {
+          "id": "FK63UgOIH2K"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "iVP6ALG0hl4",
+      "name": "Age (<1-65+-uk- nme, 16), Sex, TB Screen Result, New Existing ART and HIV Status (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "lfTeZdw4p8a"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        },
+        {
+          "id": "McLoJJs4bki"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Kyle Pittleman",
+        "id": "eTi8UVJwHfF",
+        "name": "Kyle Pittleman",
+        "username": "kyle-pittleman-xgl-global-3288"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "H0W67wrICM4",
+      "name": "Age (18+), Sex and Program Status",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "Yd9NkTBqDpB"
+        },
+        {
+          "id": "SEOZOio7f7o"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Kyle Pittleman",
+        "id": "eTi8UVJwHfF",
+        "name": "Kyle Pittleman",
+        "username": "kyle-pittleman-xgl-global-3288"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "pwqXbZ5FEfY",
+      "name": "Age (5-14-uk,2) and Sex",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "GLevLNI9wkl"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Jim Grace",
+        "id": "kwwcGq36yOZ",
+        "name": "Jim Grace",
+        "username": "jim-grace-xgl-global-7329"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "bjDvmb4bfuf",
+      "name": "default",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "Xwu76jxPuy9"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Ben Guaraldi",
+        "id": "KxdQZCgLyCk",
+        "name": "Ben Guaraldi",
+        "username": "ben-guaraldi-xgl-global-3773"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "A4WcHzTutNb",
+      "name": "Dispensed ARV Bottles",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "vQTHKp3w53N"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "akOsChvqyky",
+      "name": "Distribution",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "tX6vva5HMZ6"
+        },
+        {
+          "id": "NwU2mwOONJq"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "VMERIiE4Wxi",
+      "name": "Infant Age (2,2-12) and EID Test",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "tX6vva5HMZ6"
+        },
+        {
+          "id": "FokGv0LCTYj"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "CsbDkmHeRAq",
+      "name": "Infant Age (2,2-12) and Test Results",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "tX6vva5HMZ6"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        },
+        {
+          "id": "to1jO2KmwCG"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "aD5kbCnafVK",
+      "name": "Infant Age (2,2-12), HIV Status (Positive) and Receiving ART (Yes Only)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "Hl1cmJhzEcj"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "X3vE2sLG7zr",
+      "name": "Lab Test Services Cascade",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "dhpSQj3lERU"
+        },
+        {
+          "id": "ujEAChcmkyd"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "XDWN7DHYoLR",
+      "name": "Lab Test Services - LAB and LAB_CQI - Level v2",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "dhpSQj3lERU"
+        },
+        {
+          "id": "dp4kP45qmVG"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "UCzaHsDgz4Z",
+      "name": "Lab Test Services - LAB and Proficiency Testing Level v2",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "BwcWIzyeK7w"
+        },
+        {
+          "id": "UR1VX7QdCo6"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "qL9nCNJvdSf",
+      "name": "Lab Test Services - POCT and POCT_CQI - Level v2",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "BwcWIzyeK7w"
+        },
+        {
+          "id": "dp4kP45qmVG"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "cfXYdkEMhGN",
+      "name": "Lab Test Services - POCT and Proficiency Testing Level ver2",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "Rs36Btb3oNw"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "DdMlUmC5jdp",
+      "name": "No Contact Outcome (<3-6+ Months) and HIV Status (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "aJMalPpjgN0"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "YGjTSmUrmL8",
+      "name": "Outcome Type v2",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "WaLVzQBwbdN"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "wPOr8uuJmIE",
+      "name": "PrEP Test Result w/ Other",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "mNbN59fnAEL"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "TDyPDGfsFnh",
+      "name": "PrEP Type",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "RmXHZog36ks"
+        },
+        {
+          "id": "z5yJfr6O3w8"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "NnMTHdJaGle",
+      "name": "Sex (Female) and Pregnant/Breastfeeding Status ",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "RmXHZog36ks"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        },
+        {
+          "id": "z5yJfr6O3w8"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "tC50kSmJ2a7",
+      "name": "Sex (Female), Pregnant/Breastfeeding Status and HIV Status (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "As5SruuLGqZ"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "COBVIFehUUj",
+      "name": "TB Screen Type and HIV Status (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "Ss3BTQ9CiQq"
+        },
+        {
+          "id": "bUVkiB6QLYZ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "ZlwevcvvfuZ",
+      "name": "TB Test Type and HIV Status (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "bUVkiB6QLYZ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "gAIYJMsN6Xu",
+      "name": "Test Results (Positive)",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "yFiUWOodgOZ"
+        }
+      ],
+      "code": "transferred_or_exited",
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "I6BamX5gXp6",
+      "name": "Transferred or exited",
+      "skipTotal": false,
+      "translations": []
+    },
+    {
+      "categories": [
+        {
+          "id": "jXsabEHLsQp"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "oumhZgUNVwp",
+      "name": "Unassisted Self Testing Kit User",
+      "skipTotal": false,
+      "translations": []
+    }
+  ],
+  "system": {
+    "date": "2025-04-10T15:09:42.894+0000",
+    "id": "b45daa3f.use1.ee95f1a33e9a.bao.systems",
+    "rev": "dfd7f48",
+    "version": "2.40.5"
+  }
+}

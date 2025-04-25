@@ -1,0 +1,1251 @@
+{
+  "categoryOptionGroups": [
+    {
+      "categoryOptions": [
+        {
+          "id": "jcGQdcpPSJP"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "tIZRQs0FK5P",
+      "name": "10-14 (Specific)",
+      "shortName": "10-14 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "KwCpNRDIVUr"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Jason Pickering",
+        "id": "Uhsev5495GW",
+        "name": "Jason Pickering",
+        "username": "jason-pickering-xgl-global-3684"
+      },
+      "dataDimensionType": "ATTRIBUTE",
+      "id": "OM74T7QbSG6",
+      "name": "<10 (Specific)",
+      "shortName": "<10 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "smqKrBp3u4r"
+        },
+        {
+          "id": "FR8e8KxrmR0"
+        },
+        {
+          "id": "VHpjs9qdLFF"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Timothy Harding",
+        "id": "AfY6s6e2D6C",
+        "name": "Timothy Harding",
+        "username": "timothy-harding-xgl-global-8045"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "BURHq262iEL",
+      "name": "1-4 (Inclusive)",
+      "shortName": "1-4 (Inclusive)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "HtpYIYs18ng"
+        }
+      ],
+      "code": "15_17_SPECIFIC",
+      "createdBy": {
+        "code": null,
+        "displayName": "Jason Pickering",
+        "id": "Uhsev5495GW",
+        "name": "Jason Pickering",
+        "username": "jason-pickering-xgl-global-3684"
+      },
+      "dataDimensionType": "ATTRIBUTE",
+      "id": "noEF3Mx7aBu",
+      "name": "15-17 (Specifc)",
+      "shortName": "15-17 (Specifc)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "ttf9eZCHsTU"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "QOawCj9oLNS",
+      "name": "15-19 (Specific)",
+      "shortName": "15-19 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "IIKb0OKVCQn"
+        },
+        {
+          "id": "eQG9DwiqSQR"
+        },
+        {
+          "id": "swDN9UgTG9H"
+        },
+        {
+          "id": "pElywX5bn06"
+        },
+        {
+          "id": "jFuArfdRh6i"
+        },
+        {
+          "id": "J4SQd7SnDi2"
+        },
+        {
+          "id": "sMBMO5xAq5T"
+        },
+        {
+          "id": "FR8e8KxrmR0"
+        },
+        {
+          "id": "A9ddhoPWEUn"
+        },
+        {
+          "id": "KwCpNRDIVUr"
+        },
+        {
+          "id": "smqKrBp3u4r"
+        },
+        {
+          "id": "jcGQdcpPSJP"
+        },
+        {
+          "id": "pbXCUjm50XK"
+        },
+        {
+          "id": "ewbCuNIoxfI"
+        },
+        {
+          "id": "yxu0TxWiJAM"
+        },
+        {
+          "id": "xXju2EWIoVs"
+        },
+        {
+          "id": "uUR5Yf4QcT3"
+        },
+        {
+          "id": "VHpjs9qdLFF"
+        },
+        {
+          "id": "iktIW9SQ4nb"
+        },
+        {
+          "id": "QjfSmap6C1o"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "X2PpJrdZaxH",
+      "name": "<15 (Inclusive)",
+      "shortName": "<15 (Inclusive)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "C0GAyd5PaGn"
+        },
+        {
+          "id": "s3fwbaDq9tq"
+        },
+        {
+          "id": "ttf9eZCHsTU"
+        },
+        {
+          "id": "HuWOqxjK4D5"
+        },
+        {
+          "id": "Gqr7ec6KksO"
+        },
+        {
+          "id": "chwRiU63iN3"
+        },
+        {
+          "id": "GaScV37Kk29"
+        },
+        {
+          "id": "AwPiRQEHGfg"
+        },
+        {
+          "id": "Wzh7ea4uM0D"
+        },
+        {
+          "id": "rQLOOlL3UOQ"
+        },
+        {
+          "id": "gF2bdhyAIfu"
+        },
+        {
+          "id": "LSzfEt8dmJ6"
+        },
+        {
+          "id": "HtpYIYs18ng"
+        },
+        {
+          "id": "mfSwF817dUl"
+        },
+        {
+          "id": "RQbUeV6OAVk"
+        },
+        {
+          "id": "TpXlQcoXGZF"
+        },
+        {
+          "id": "R32YPF38CJJ"
+        },
+        {
+          "id": "SMXPADytkkF"
+        },
+        {
+          "id": "gOD0HGCr1Gr"
+        },
+        {
+          "id": "j9x36bAer9v"
+        },
+        {
+          "id": "XIFPLoaLuOF"
+        },
+        {
+          "id": "Qcj9g7o4iZz"
+        },
+        {
+          "id": "Q6xWcyHDq6e"
+        },
+        {
+          "id": "meeNUPwEOtj"
+        },
+        {
+          "id": "JEth8vg25Rv"
+        },
+        {
+          "id": "Syam8WJ6KtM"
+        },
+        {
+          "id": "AZaNm5B8vn9"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "HkQZzpC7cUo",
+      "name": "15+ (Inclusive)",
+      "shortName": "15+ (Inclusive)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "yxu0TxWiJAM"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "dHewx3ia8a6",
+      "name": "<15 (Specific)",
+      "shortName": "<15 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "Qcj9g7o4iZz"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "aIbkjGjUZvE",
+      "name": "15+ (Specific)",
+      "shortName": "15+ (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "gOD0HGCr1Gr"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "d0y4XbtPq8A",
+      "name": "18-20 (Specific)",
+      "shortName": "18-20 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "Wzh7ea4uM0D"
+        }
+      ],
+      "code": "18_24_SPECIFIC",
+      "createdBy": {
+        "code": null,
+        "displayName": "Jason Pickering",
+        "id": "Uhsev5495GW",
+        "name": "Jason Pickering",
+        "username": "jason-pickering-xgl-global-3684"
+      },
+      "dataDimensionType": "ATTRIBUTE",
+      "id": "N0PwGN3UKWx",
+      "name": "18-24 (Specific)",
+      "shortName": "18-24 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "Q6xWcyHDq6e"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Kyle Pittleman",
+        "id": "eTi8UVJwHfF",
+        "name": "Kyle Pittleman",
+        "username": "kyle-pittleman-xgl-global-3288"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "BLXmhECo3EY",
+      "name": "18+ (Specific)",
+      "shortName": "18+ (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "A9ddhoPWEUn"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "egW0hBcZeD2",
+      "name": "1-9 (Specific)",
+      "shortName": "1-9 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "sMBMO5xAq5T"
+        },
+        {
+          "id": "xXju2EWIoVs"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "Z8MTaDxRBP6",
+      "name": "<1 (Specific)",
+      "shortName": "<1 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "GaScV37Kk29"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "BDPEHrovntA",
+      "name": "20-24 (Specific)",
+      "shortName": "20-24 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "pbXCUjm50XK"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Timothy Harding",
+        "id": "AfY6s6e2D6C",
+        "name": "Timothy Harding",
+        "username": "timothy-harding-xgl-global-8045"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "V1TzJFJTdHd",
+      "name": "2-12 Months (Specific)",
+      "shortName": "2-12 Months (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "meeNUPwEOtj"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "K9Cw4402aAh",
+      "name": "25-29 (Specific)",
+      "shortName": "25-29 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "j9x36bAer9v"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "BnuNBXdgkKi",
+      "name": "25-49 (Specific)",
+      "shortName": "25-49 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "Gqr7ec6KksO"
+        }
+      ],
+      "code": "25_PLUS_SPECIFIC",
+      "createdBy": {
+        "code": null,
+        "displayName": "Jason Pickering",
+        "id": "Uhsev5495GW",
+        "name": "Jason Pickering",
+        "username": "jason-pickering-xgl-global-3684"
+      },
+      "dataDimensionType": "ATTRIBUTE",
+      "id": "pk98FEsOJcz",
+      "name": "25+ (Specific)",
+      "shortName": "25+ (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "pElywX5bn06"
+        },
+        {
+          "id": "J4SQd7SnDi2"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Timothy Harding",
+        "id": "AfY6s6e2D6C",
+        "name": "Timothy Harding",
+        "username": "timothy-harding-xgl-global-8045"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "M8W7M5GlOPh",
+      "name": "<2 Months (Specific)",
+      "shortName": "<2 Months (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "AZaNm5B8vn9"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "JqZFtdn1sG3",
+      "name": "30-34 (Specific)",
+      "shortName": "30-34 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "Syam8WJ6KtM"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "AnBUfa1TLnS",
+      "name": "30-49 (Specific)",
+      "shortName": "30-49 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "R32YPF38CJJ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "ftAnvKhxRxl",
+      "name": "35-39 (Specific)",
+      "shortName": "35-39 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "JEth8vg25Rv"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Timothy Harding",
+        "id": "AfY6s6e2D6C",
+        "name": "Timothy Harding",
+        "username": "timothy-harding-xgl-global-8045"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "kyKHoWxTzHR",
+      "name": "40-44 (Specific)",
+      "shortName": "40-44 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "XIFPLoaLuOF"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "wRYm1EaHwN6",
+      "name": "40-49 (Specific)",
+      "shortName": "40-49 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "rQLOOlL3UOQ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Timothy Harding",
+        "id": "AfY6s6e2D6C",
+        "name": "Timothy Harding",
+        "username": "timothy-harding-xgl-global-8045"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "MsbFixtB8mu",
+      "name": "45-49 (Specific)",
+      "shortName": "45-49 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "SMXPADytkkF"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Couper Turkewitz",
+        "id": "pFkDLjhIx10",
+        "name": "Couper Turkewitz",
+        "username": "couper-turkewitz-xgl-global-4956"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "tP68KXwhi7Y",
+      "name": "50-54 (Specific)",
+      "shortName": "50-54 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "TpXlQcoXGZF"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "bePcXLCq9Ov",
+      "name": "50+ (Specific)",
+      "shortName": "50+ (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "RQbUeV6OAVk"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Couper Turkewitz",
+        "id": "pFkDLjhIx10",
+        "name": "Couper Turkewitz",
+        "username": "couper-turkewitz-xgl-global-4956"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "IidKGLIJidC",
+      "name": "55- 59 (Specific)",
+      "shortName": "55- 59 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "eQG9DwiqSQR"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Timothy Harding",
+        "id": "AfY6s6e2D6C",
+        "name": "Timothy Harding",
+        "username": "timothy-harding-xgl-global-8045"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "RV1ZeOr98rI",
+      "name": "5-9 (Specific)",
+      "shortName": "5-9 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "IIKb0OKVCQn"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "Zfg3cHN5TMz",
+      "name": "<5 (Specific)",
+      "shortName": "<5 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "C0GAyd5PaGn"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Couper Turkewitz",
+        "id": "pFkDLjhIx10",
+        "name": "Couper Turkewitz",
+        "username": "couper-turkewitz-xgl-global-4956"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "wcbZKNF8vyb",
+      "name": "60-64 (Specific)",
+      "shortName": "60-64 (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "HuWOqxjK4D5"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Couper Turkewitz",
+        "id": "pFkDLjhIx10",
+        "name": "Couper Turkewitz",
+        "username": "couper-turkewitz-xgl-global-4956"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "Ki4v7TDSEZU",
+      "name": "65+ (Specific)",
+      "shortName": "65+ (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "rSKP7Z85FX9"
+        }
+      ],
+      "code": "ALREADY_ON_ART",
+      "createdBy": {
+        "code": null,
+        "displayName": "Jason Pickering",
+        "id": "Uhsev5495GW",
+        "name": "Jason Pickering",
+        "username": "jason-pickering-xgl-global-3684"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "blnuJdt8f1Y",
+      "name": "Already on ART",
+      "shortName": "Already on ART",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "ODzpUMMy1Rx"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Timothy Harding",
+        "id": "AfY6s6e2D6C",
+        "name": "Timothy Harding",
+        "username": "timothy-harding-xgl-global-8045"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "MHWJsd7BQqw",
+      "name": "Breastfeeding",
+      "shortName": "Breastfeeding",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "cClJAQGZyoZ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "iGJ784iSg0R",
+      "name": "Declined Testing/Referral (Specific)",
+      "shortName": "Declined Testing/Referral (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "Z1EnpTPaUfq"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "id": "ZOYVg7Hosni",
+      "name": "Females",
+      "shortName": "Females",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "J5IyPK7zXAP"
+        },
+        {
+          "id": "UZiblswhotd"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Couper Turkewitz",
+        "id": "pFkDLjhIx10",
+        "name": "Couper Turkewitz",
+        "username": "couper-turkewitz-xgl-global-4956"
+      },
+      "dataDimensionType": "ATTRIBUTE",
+      "id": "Z8Otpb3Im7s",
+      "name": "FY20 Recency: Long-term Infection",
+      "shortName": "Long-term Infection",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "BMsi3ZMO91R"
+        },
+        {
+          "id": "uRSGVPnt8uy"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Couper Turkewitz",
+        "id": "pFkDLjhIx10",
+        "name": "Couper Turkewitz",
+        "username": "couper-turkewitz-xgl-global-4956"
+      },
+      "dataDimensionType": "ATTRIBUTE",
+      "id": "bMOgVmg6RnW",
+      "name": "FY20 Recency: Recent Infection",
+      "shortName": "Recent Infection",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "BiB1MtA7o4A"
+        },
+        {
+          "id": "Gb0GYkqotaO"
+        },
+        {
+          "id": "bpEMgArwsX5"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "ATTRIBUTE",
+      "id": "ntdVDkWUOj9",
+      "name": "HIV Negative (Inclusive)",
+      "shortName": "HIV Negative (Inclusive)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "Gb0GYkqotaO"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "ATTRIBUTE",
+      "id": "EvyNJHbQ7ZE",
+      "name": "HIV Negative (Specific)",
+      "shortName": "HIV Negative (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "KM4dyooZHUP"
+        },
+        {
+          "id": "LvheCKbuFJZ"
+        },
+        {
+          "id": "Vr59uUJBySG"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "ATTRIBUTE",
+      "id": "l5mQOWpLybR",
+      "name": "HIV Positive (Inclusive)",
+      "shortName": "HIV Positive (Inclusive)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "KM4dyooZHUP"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "ATTRIBUTE",
+      "id": "awSDzziN3Dn",
+      "name": "HIV Positive (Specific)",
+      "shortName": "HIV Positive (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "XfIfIImHANf"
+        },
+        {
+          "id": "cClJAQGZyoZ"
+        },
+        {
+          "id": "I4Rlm4614IE"
+        },
+        {
+          "id": "gUdtLH3fV1m"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "Qnfnp6VzPcP",
+      "name": "HIV Status Unknown (Inclusive)",
+      "shortName": "HIV Status Unknown (Inclusive)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "gUdtLH3fV1m"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "ATTRIBUTE",
+      "id": "i4Fgst9vzF9",
+      "name": "HIV Status Unknown (Specific)",
+      "shortName": "HIV Status Unknown (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "LvheCKbuFJZ"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "ATTRIBUTE",
+      "id": "e9fbFnQEyyA",
+      "name": "Known Positives (Specific)",
+      "shortName": "Known Positives (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "Qn0I5FbKQOA"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "id": "hDBPKTjUPDm",
+      "name": "Males",
+      "shortName": "Males",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "iAoGQ8eQPTP"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "Gxcf2DK8vNc",
+      "name": "Missing Sex",
+      "shortName": "Missing Sex",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "Vr59uUJBySG"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "ATTRIBUTE",
+      "id": "mSBg9AZx1lV",
+      "name": "Newly Tested Positives (Specific)",
+      "shortName": "Newly Tested Positives (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "XfIfIImHANf"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "zN8ZKXwJidw",
+      "name": "Newly Tested/Referred (Specific)",
+      "shortName": "Newly Tested/Referred (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "BiB1MtA7o4A"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "ATTRIBUTE",
+      "id": "viYXyEy7wKi",
+      "name": "New Negatives (Specific)",
+      "shortName": "New Negatives (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "udcRwufEXFQ"
+        }
+      ],
+      "code": "ART_NEW",
+      "createdBy": {
+        "code": null,
+        "displayName": "Jason Pickering",
+        "id": "Uhsev5495GW",
+        "name": "Jason Pickering",
+        "username": "jason-pickering-xgl-global-3684"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "x9wEpHXMZ5Z",
+      "name": "New on ART",
+      "shortName": "New on ART",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "Gkj4jidx2AB"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Timothy Harding",
+        "id": "AfY6s6e2D6C",
+        "name": "Timothy Harding",
+        "username": "timothy-harding-xgl-global-8045"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "JaWOzzRaq3y",
+      "name": "Pregnant",
+      "shortName": "Pregnant",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "bpEMgArwsX5"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "ATTRIBUTE",
+      "id": "GNXy3pvTTM2",
+      "name": "Recent Negatives (Specific)",
+      "shortName": "Recent Negatives (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "I4Rlm4614IE"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "XQd6s5Gma2A",
+      "name": "Test Not Required based on Risk (Specific)",
+      "shortName": "Test Not Required based on Risk (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptions": [
+        {
+          "id": "y1qnRg4a8dz"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "MnAgKVcL97H",
+      "name": "Unknown Age",
+      "shortName": "Unknown Age",
+      "translations": []
+    }
+  ],
+  "system": {
+    "date": "2025-04-10T15:10:01.209+0000",
+    "id": "b45daa3f.use1.ee95f1a33e9a.bao.systems",
+    "rev": "dfd7f48",
+    "version": "2.40.5"
+  }
+}

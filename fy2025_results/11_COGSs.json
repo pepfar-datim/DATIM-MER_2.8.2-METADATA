@@ -1,0 +1,322 @@
+{
+  "categoryOptionGroupSets": [
+    {
+      "categoryOptionGroups": [
+        {
+          "id": "X2PpJrdZaxH"
+        },
+        {
+          "id": "HkQZzpC7cUo"
+        },
+        {
+          "id": "MnAgKVcL97H"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimension": true,
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "xRo1uG2KJHk",
+      "name": "Age: <15/15+  (Coarse)",
+      "shortName": "Age: <15/15+  (Coarse)",
+      "translations": []
+    },
+    {
+      "categoryOptionGroups": [
+        {
+          "id": "MnAgKVcL97H"
+        },
+        {
+          "id": "Z8MTaDxRBP6"
+        },
+        {
+          "id": "BURHq262iEL"
+        },
+        {
+          "id": "RV1ZeOr98rI"
+        },
+        {
+          "id": "tIZRQs0FK5P"
+        },
+        {
+          "id": "QOawCj9oLNS"
+        },
+        {
+          "id": "BDPEHrovntA"
+        },
+        {
+          "id": "K9Cw4402aAh"
+        },
+        {
+          "id": "JqZFtdn1sG3"
+        },
+        {
+          "id": "ftAnvKhxRxl"
+        },
+        {
+          "id": "kyKHoWxTzHR"
+        },
+        {
+          "id": "MsbFixtB8mu"
+        },
+        {
+          "id": "bePcXLCq9Ov"
+        },
+        {
+          "id": "M8W7M5GlOPh"
+        },
+        {
+          "id": "V1TzJFJTdHd"
+        },
+        {
+          "id": "Zfg3cHN5TMz"
+        },
+        {
+          "id": "egW0hBcZeD2"
+        },
+        {
+          "id": "OM74T7QbSG6"
+        },
+        {
+          "id": "dHewx3ia8a6"
+        },
+        {
+          "id": "aIbkjGjUZvE"
+        },
+        {
+          "id": "noEF3Mx7aBu"
+        },
+        {
+          "id": "N0PwGN3UKWx"
+        },
+        {
+          "id": "pk98FEsOJcz"
+        },
+        {
+          "id": "BnuNBXdgkKi"
+        },
+        {
+          "id": "AnBUfa1TLnS"
+        },
+        {
+          "id": "wRYm1EaHwN6"
+        },
+        {
+          "id": "BLXmhECo3EY"
+        },
+        {
+          "id": "d0y4XbtPq8A"
+        },
+        {
+          "id": "tP68KXwhi7Y"
+        },
+        {
+          "id": "IidKGLIJidC"
+        },
+        {
+          "id": "wcbZKNF8vyb"
+        },
+        {
+          "id": "Ki4v7TDSEZU"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimension": true,
+      "dataDimensionType": "DISAGGREGATION",
+      "description": "Age bands which are relevant for the clinical cascade.",
+      "id": "e485zBiR7vG",
+      "name": "Age: Cascade Age bands",
+      "shortName": "Age: Cascade Age bands",
+      "translations": []
+    },
+    {
+      "categoryOptionGroups": [
+        {
+          "id": "blnuJdt8f1Y"
+        },
+        {
+          "id": "x9wEpHXMZ5Z"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Jason Pickering",
+        "id": "Uhsev5495GW",
+        "name": "Jason Pickering",
+        "username": "jason-pickering-xgl-global-3684"
+      },
+      "dataDimension": true,
+      "dataDimensionType": "DISAGGREGATION",
+      "description": "New/Already on ART",
+      "id": "M5w5H1KU40l",
+      "name": "ART Status",
+      "shortName": "ART Status",
+      "translations": []
+    },
+    {
+      "categoryOptionGroups": [
+        {
+          "id": "hDBPKTjUPDm"
+        },
+        {
+          "id": "ZOYVg7Hosni"
+        },
+        {
+          "id": "Gxcf2DK8vNc"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimension": true,
+      "dataDimensionType": "DISAGGREGATION",
+      "description": "Grouping of sex options to support analysis of the clinical cascade",
+      "id": "jyUTj5YC3OK",
+      "name": "Cascade sex",
+      "shortName": "Cascade sex",
+      "translations": []
+    },
+    {
+      "categoryOptionGroups": [
+        {
+          "id": "Z8Otpb3Im7s"
+        },
+        {
+          "id": "bMOgVmg6RnW"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Couper Turkewitz",
+        "id": "pFkDLjhIx10",
+        "name": "Couper Turkewitz",
+        "username": "couper-turkewitz-xgl-global-4956"
+      },
+      "dataDimension": true,
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "ZU8JXw0eQlZ",
+      "name": "FY20 Recency",
+      "shortName": "FY20 Recency",
+      "translations": []
+    },
+    {
+      "categoryOptionGroups": [
+        {
+          "id": "l5mQOWpLybR"
+        },
+        {
+          "id": "ntdVDkWUOj9"
+        },
+        {
+          "id": "Qnfnp6VzPcP"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimension": true,
+      "dataDimensionType": "DISAGGREGATION",
+      "description": "HIV Test status (Inclusive)",
+      "id": "ipBFu42t2sJ",
+      "name": "HIV Test Status (Inclusive)",
+      "shortName": "HIV Test Status (Inclusive)",
+      "translations": []
+    },
+    {
+      "categoryOptionGroups": [
+        {
+          "id": "awSDzziN3Dn"
+        },
+        {
+          "id": "EvyNJHbQ7ZE"
+        },
+        {
+          "id": "i4Fgst9vzF9"
+        },
+        {
+          "id": "mSBg9AZx1lV"
+        },
+        {
+          "id": "e9fbFnQEyyA"
+        },
+        {
+          "id": "viYXyEy7wKi"
+        },
+        {
+          "id": "GNXy3pvTTM2"
+        },
+        {
+          "id": "zN8ZKXwJidw"
+        },
+        {
+          "id": "iGJ784iSg0R"
+        },
+        {
+          "id": "XQd6s5Gma2A"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "BAO Admin",
+        "id": "emeQ7kjx8Ve",
+        "name": "BAO Admin",
+        "username": "bao-admin"
+      },
+      "dataDimension": true,
+      "dataDimensionType": "DISAGGREGATION",
+      "description": "HIV Test status",
+      "id": "bDWsPYyXgWP",
+      "name": "HIV Test Status (Specific)",
+      "shortName": "HIV Test Status (Specific)",
+      "translations": []
+    },
+    {
+      "categoryOptionGroups": [
+        {
+          "id": "JaWOzzRaq3y"
+        },
+        {
+          "id": "MHWJsd7BQqw"
+        }
+      ],
+      "createdBy": {
+        "code": null,
+        "displayName": "Timothy Harding",
+        "id": "AfY6s6e2D6C",
+        "name": "Timothy Harding",
+        "username": "timothy-harding-xgl-global-8045"
+      },
+      "dataDimension": true,
+      "dataDimensionType": "DISAGGREGATION",
+      "id": "dpGbG3hUgdV",
+      "name": "Pregnant Or Breastfeeding",
+      "shortName": "Pregnant Or Breastfeeding",
+      "translations": []
+    }
+  ],
+  "system": {
+    "date": "2025-04-10T15:10:00.978+0000",
+    "id": "b45daa3f.use1.ee95f1a33e9a.bao.systems",
+    "rev": "dfd7f48",
+    "version": "2.40.5"
+  }
+}

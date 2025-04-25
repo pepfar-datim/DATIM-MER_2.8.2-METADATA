@@ -1,0 +1,96 @@
+{
+  "organisationUnitGroupSets": [
+    {
+      "compulsory": true,
+      "createdBy": {
+        "code": null,
+        "displayName": "Lars Helge \u00d8verland",
+        "id": "YDfPt80iOQp",
+        "name": "Lars Helge \u00d8verland",
+        "username": "larshelge-overland-xgl-global-3040"
+      },
+      "dataDimension": true,
+      "description": "Type of organisational unit",
+      "id": "mINJi7rR1a6",
+      "includeSubhierarchyInAnalytics": false,
+      "name": "Type of organisational unit",
+      "organisationUnitGroups": [
+        {
+          "id": "nwQbMeALRjL"
+        },
+        {
+          "id": "PvuaP6YALSA"
+        },
+        {
+          "id": "POHZmzofoVx"
+        },
+        {
+          "id": "AookYR4ECPH"
+        }
+      ],
+      "shortName": "Type of organisational unit"
+    }
+  ],
+  "organisationUnitGroups": [
+    {
+      "code": "COMMUNITY",
+      "createdBy": {
+        "code": null,
+        "displayName": "Lars Helge \u00d8verland",
+        "id": "YDfPt80iOQp",
+        "name": "Lars Helge \u00d8verland",
+        "username": "larshelge-overland-xgl-global-3040"
+      },
+      "id": "PvuaP6YALSA",
+      "name": "Community",
+      "shortName": "Community",
+      "symbol": "11.png"
+    },
+    {
+      "code": "FACILITY",
+      "createdBy": {
+        "code": null,
+        "displayName": "Lars Helge \u00d8verland",
+        "id": "YDfPt80iOQp",
+        "name": "Lars Helge \u00d8verland",
+        "username": "larshelge-overland-xgl-global-3040"
+      },
+      "id": "POHZmzofoVx",
+      "name": "Facility",
+      "shortName": "Facility",
+      "symbol": "21.png"
+    },
+    {
+      "code": "MILITARY",
+      "createdBy": {
+        "code": null,
+        "displayName": "Jason Pickering",
+        "id": "Uhsev5495GW",
+        "name": "Jason Pickering",
+        "username": "jason-pickering-xgl-global-3684"
+      },
+      "id": "nwQbMeALRjL",
+      "name": "Military",
+      "shortName": "Military"
+    },
+    {
+      "code": "OTHER_OU_TYPE",
+      "createdBy": {
+        "code": null,
+        "displayName": "Jason Pickering",
+        "id": "Uhsev5495GW",
+        "name": "Jason Pickering",
+        "username": "jason-pickering-xgl-global-3684"
+      },
+      "id": "AookYR4ECPH",
+      "name": "Other organisation unit type",
+      "shortName": "Other organisation unit type"
+    }
+  ],
+  "system": {
+    "date": "2025-01-06T14:32:21.991+0000",
+    "id": "b45daa3f.use1.ee95f1a33e9a.bao.systems",
+    "rev": "dfd7f48",
+    "version": "2.40.5"
+  }
+}
